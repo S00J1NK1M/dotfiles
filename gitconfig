@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = contact.soojin.kim@gmail.com
+	name = Soojin Kim
